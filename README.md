@@ -176,8 +176,4 @@ Ecommerce-admin-api/
 3. Commit changes  
 4. Push and open PR  
 
-## License
-MIT
 
-## Contact
-your.email@example.com
